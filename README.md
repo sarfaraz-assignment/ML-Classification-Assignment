@@ -42,7 +42,7 @@ All features were standardized using `StandardScaler` before training.
 
 ## 🔗 GitHub Repository Link
 
-**Repository:** [https://github.com/sarfaraz-bitspilani/ML-Classification-Assignment](https://github.com/sarfaraz-bitspilani/ML-Classification-Assignment)
+**Repository:** [https://github.com/sarfaraz-assignment/ML-Classification-Assignment](https://github.com/sarfaraz-assignment/ML-Classification-Assignment)
 
 ---
 
@@ -121,7 +121,7 @@ ML-Classification-Assignment/
 
 ```bash
 # Clone the repository
-git clone https://github.com/sarfaraz-bitspilani/ML-Classification-Assignment.git
+git clone https://github.com/sarfaraz-assignment/ML-Classification-Assignment.git
 cd ML-Classification-Assignment
 
 # Install dependencies
@@ -149,3 +149,4 @@ streamlit run app.py
 ---
 
 *Built for BITS WILP — M.Tech (AIML) — Machine Learning Assignment 2 (2026)*
+
