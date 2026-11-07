@@ -92,7 +92,7 @@ The interactive Streamlit web application includes:
 - ✅ **Classification Report** — Detailed per-class precision, recall, and F1
 - ✅ **All Models Comparison** — Side-by-side comparison table and bar chart
 
-**Live App:** [Streamlit App Link — Update after deployment]
+**Live App:** [https://ml-classification-assignment-6davroly43kdmunr7xge4s.streamlit.app](https://ml-classification-assignment-6davroly43kdmunr7xge4s.streamlit.app)
 
 ---
 
